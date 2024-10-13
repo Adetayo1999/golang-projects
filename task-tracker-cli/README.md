@@ -1,6 +1,8 @@
 # Task Tracker CLI
 
-This basic cli app can be used to add, create, update and view todos
+Cli App for [Roadmap Tast Tracker](https://roadmap.sh/projects/task-tracker)
+
+This basic cli app can be used to add, create, update and view todos.
 
 ## How To Run The Program
 
